@@ -1,0 +1,17 @@
+* {
+  
+}
+
+body {
+  display: flex;
+  height: 100vh;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+
+  font-family: 'Roboto', sans-serif;
+
+
+  color: white;
+  background: linear-gradient(to right, #0f2027, #203a43, #2c5364);
+}
