@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="./assets/coder.png" width="250" alt="Cod3r logo">
+    
 </h1>
 
 <h4 align="center">
@@ -17,7 +17,7 @@
 
 ## 💻 Projeto
 
-Calculadora desenvolvida durante o curso de React da Cod3r, projeto com intuito de fixação de conceitos e lógica em javascript.
+Calculadora desenvolvida com intuito de fixação de conceitos e lógica em javascript.
 
 <div align="center">
   <img src="./assets/gif.gif" alt="demo" height="450">
