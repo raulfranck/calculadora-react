@@ -39,7 +39,7 @@ Para executar essa aplicação
 1 - Em um terminal, entrar na raiz do projeto **/calculadora** e rodar o comando:
 
 ```
-$ npm i
+$ npm install
 ```
 
 2 - Ainda na raiz do projeto, rodar o comando:
